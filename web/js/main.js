@@ -43,7 +43,7 @@ if (form) {
     );
 
     // Número de WhatsApp del negocio — actualizar cuando esté disponible
-    const whatsappNumber = '18094000000';
+    const whatsappNumber = '18096641463';
     window.open(`https://wa.me/${whatsappNumber}?text=${texto}`, '_blank');
   });
 }
